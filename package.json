@@ -1,9 +1,9 @@
 {
-  "name": "quiz-master",
+  "name": "Quiz-Master",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://musmana.github.io/quiz-master",
+  "homepage": "https://musmana.github.io/Quiz-Master",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
