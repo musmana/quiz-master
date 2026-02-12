@@ -26,7 +26,7 @@ import { AdminProfilePage } from "./pages/admin/AdminProfilePage";
 
 function App() {
   return (
-    <BrowserRouter>
+   <BrowserRouter basename="/Quiz-Master">
       <Routes>
         {/* Public/Auth Routes */}
         <Route path="/" element={<Navigate to="/login" replace />} />
